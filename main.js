@@ -26,7 +26,7 @@ function load_img(){
 
 function new_image()
 {
-	// write code to Upload ball image on canvas
+	
 }
 
 window.addEventListener("keydown", my_keydown);
